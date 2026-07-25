@@ -1,20 +1,39 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Personal Portfolio - Bhabina Babu
 
-# Run and deploy your AI Studio app
+A modern, responsive personal portfolio built with React and Tailwind CSS. It showcases my academic projects, skills, education, and professional details.
 
-This contains everything you need to run your app locally.
+## 🚀 Live Demo
 
-View your app in AI Studio: https://ai.studio/apps/c1b3a8e8-16e4-4ea9-b66f-0ffc57b761f2
+[View Portfolio](https://bhabina2005.github.io/Bhabina-Babu-portfolio/)
 
-## Run Locally
+## 🛠️ Technologies Used
 
-**Prerequisites:**  Node.js
+- **Frontend:** React (Vite)
+- **Styling:** Tailwind CSS
+- **Animations:** Framer Motion
+- **Icons:** Lucide React
 
+## 📦 Run Locally
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Bhabina2005/Bhabina-Babu-portfolio.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd Bhabina-Babu-portfolio
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+## 📬 Contact
+
+- **Email:** bhabinababu@gmail.com
+- **LinkedIn:** [Bhabina Babu](https://linkedin.com/in/bhabina-babu)
+- **GitHub:** [Bhabina2005](https://github.com/Bhabina2005)
